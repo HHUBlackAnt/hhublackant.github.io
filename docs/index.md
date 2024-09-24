@@ -10,7 +10,7 @@
 
 ## 目录
 
-- [科研](/research)
+- [科研项目](/research)
 - [课程学习](/course)
 - [就业](/job)
 - [关于](/about)

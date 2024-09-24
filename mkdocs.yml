@@ -39,4 +39,7 @@ nav:
     - 校内课程: course.md
     - 外部课程: course_external.md
   - 就业: job.md
-  - 科研: research.md
+  - 科研: 
+    - 总纲: research.md
+    - 机器人科研项目: project/robotics.md
+    - 人工智能科研项目: project/ai.md
