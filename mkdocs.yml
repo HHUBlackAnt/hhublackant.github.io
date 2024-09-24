@@ -1,0 +1,18 @@
+site_name: HHU BlackAnt
+theme:
+  name: 'material'
+  language: 'zh'
+  features:
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - toc.follow
