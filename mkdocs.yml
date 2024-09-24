@@ -1,4 +1,17 @@
 site_name: HHU BlackAnt
+site_author: 'HHU 机器人协会'
+markdown_extensions:
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.arithmatex:
+      generic: true
+plugins:
+  - search
 theme:
   name: 'material'
   language: 'zh'
@@ -16,3 +29,14 @@ theme:
     - navigation.top
     - toc.integrate
     - toc.follow
+copyright: |
+  &copy; 2024 <a href="https://github.com/HHU-BlackAnt target = "_blank" rel = "noopener">HHU 机器人协会</a>
+
+nav:
+  - Home: index.md
+  - 关于我们: about.md
+  - 课程: 
+    - 校内课程: course.md
+    - 外部课程: course_external.md
+  - 就业: job.md
+  - 科研: research.md
