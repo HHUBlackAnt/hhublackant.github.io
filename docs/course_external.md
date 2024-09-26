@@ -1,3 +1,8 @@
+---
+title: 留言板
+hide:
+comments: true  #默认不开启评论
+---
 # 外部课程
 ## [GitHub](https://github.com/)
 笔者强烈建议所有计算机新生学会GitHub的基本使用，对计算机的学生来说，GitHub就是一座免费的宝藏库，而且很多优秀的开源项目都在GitHub上，如果能够参与这些项目，提几个pull request，无论是对个人技术提升还是简历加分都是非常有帮助的。

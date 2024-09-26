@@ -1,3 +1,8 @@
+---
+title: 留言板
+hide:
+comments: true  #默认不开启评论
+---
 # Welcome to HHUBlackAnt
 
 ## 写在前面
